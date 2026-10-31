@@ -4,4 +4,5 @@ bin/
 .env
 *.class
 .DS_Store
+lib/
 
